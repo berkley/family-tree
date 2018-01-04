@@ -1,0 +1,19 @@
+{
+    "name": "Bill",
+    "children": [{
+        "name": "Chad",
+        "children": [{
+            "name": "Ellie",
+        }, {
+            "name": "Julian",
+        }]
+    }, {
+        "name": "Kurt",
+        "children": [{
+            "name": "Kaia"
+            }, {
+            "name": "Shep",
+        }]
+    }
+    ]
+}
