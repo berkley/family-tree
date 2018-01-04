@@ -4,7 +4,8 @@
   "description": "script to generate a family tree using d3-tree",
   "main": "index.js",
   "dependencies": {
-    "d3-tree": "^1.0.17"
+    "d3-tree": "^1.0.17",
+    "fast-csv": "^2.4.1"
   },
   "devDependencies": {},
   "scripts": {
