@@ -1,0 +1,23 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "description": "script to generate a family tree using d3-tree",
+  "main": "index.js",
+  "dependencies": {
+    "d3-tree": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkley/family-tree.git"
+  },
+  "author": "Chad Berkley <cberkley@flightstats.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkley/family-tree/issues"
+  },
+  "homepage": "https://github.com/berkley/family-tree#readme"
+}
