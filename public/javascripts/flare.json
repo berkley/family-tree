@@ -1,23 +1,14 @@
-{
-    "name": "Bill",
-    "children": [{
-        "name": "Chad",
-        "children": [{
-            "name": "Ellie",
-            "children": []
-        }, {
-            "name": "Julian",
-            "children": []
-        }]
-    }, {
-        "name": "Kurt",
-        "children": [{
-            "name": "Kaia",
-            "size": 17010
-        }, {
-            "name": "Shep",
-            "size": 5842
-        }]
+{"name": "Bill", "children": [
+  { "name": "Chad", "children": [
+        {"name": "Ellie"},
+        {"name": "Julian"}
+      ]
+    },
+    {
+      "name":"Kurt", "children": [
+        {"name":"Shep"},
+        {"name":"Kaia"}
+      ]
     }
-    ]
-}
+  ]
+} 
